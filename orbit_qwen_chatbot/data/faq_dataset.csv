@@ -1,0 +1,63 @@
+question,answer,intent
+What is BSIT?,"BSIT stands for Bachelor of Science in Information Technology. It focuses on IT infrastructure, support, and systems.",AskCourseInfo
+What is BSCS?,"BSCS stands for Bachelor of Science in Computer Science. It focuses on programming, data structures, and algorithm design.",AskCourseInfo
+What is EMC?,"EMC stands for Entertainment and Multimedia Computing. It focuses on game development, interactive media, and digital design.",AskCourseInfo
+How much is the tuition for BSIT?,"The tuition for BSIT is around ₱60,000 per semester.",AskTuition
+How much is the tuition for BSCS?,"The tuition for BSCS is around ₱62,000 per semester.",AskTuition
+When is the application deadline?,The application deadline is usually every July for the 1st semester.,AskAdmission
+What are the requirements for admission?,"The basic requirements include Form 138, birth certificate, and a completed application form.",AskAdmission
+What’s the difference between IT and CS?,"IT focuses on practical tech like networks and support, while CS dives deep into programming and computing theory.",ask_program_difference
+Tell me about EMC.,EMC combines computing and multimedia to develop interactive applications and games.,ask_program_difference
+Do IT and CS share subjects?,"Yes, all three programs share foundational courses like programming and IT basics, but diverge into specializations.",ask_subjects_shared
+Which course is better for me?,"It depends: IT for practical systems work, CS for coding and theory, EMC for creative media and games.",ask_best_program
+What jobs can I get with an IT degree?,"IT graduates can work as support specialists, network admins, system analysts, or project managers.",ask_it_career_paths
+What jobs can I get with a CS degree?,"CS graduates become developers, data scientists, AI engineers, or software architects.",ask_cs_career_paths
+What jobs can I get with an EMC degree?,"EMC graduates often become game developers, animators, AR/VR specialists, or multimedia designers.",ask_emc_career_paths
+How long is the CS program?,"CS, IT, and EMC programs typically take 4 years including an internship or OJT.",ask_course_duration
+"Can you give examples of subjects in IT, CS, and EMC?","IT: Networking, Security. CS: Algorithms, AI. EMC: Game Design, Multimedia Systems.",ask_subject_examples
+Are these programs accredited?,"Yes, IT, CS, and EMC are CHED-recognized and may also be accredited by PAASCU or AACCUP.",ask_program_accreditation
+When does FIRT ASIA International School start classes?,Classes at FIRT ASIA International School start on 26 August 2025.,ask_enrollment_fais
+When does FCS start classes?,Classes at FCS start on 14 July 2025.,ask_enrollment_fcs
+When does FSH start classes?,Classes at FSH start on 16 July 2025.,ask_enrollment_fsh
+When does TS start classes?,Classes at TS start on 16 July 2025.,ask_enrollment_ts
+When is the orientation for FCS?,The orientation for FCS is on 12 July 2025.,ask_orientation_fcs
+When is the orientation for FSH?,The orientation for FSH is on 11 July 2025.,ask_orientation_fsh
+When is the orientation for TS?,The orientation for TS is on 15 July 2025.,ask_orientation_ts
+When is early enrollment for FCS?,Early enrollment for FCS is from 14 April to 17 May.,ask_early_enrollment_fcs
+When is regular enrollment for FCS?,Regular enrollment for FCS is from 19 May to 5 July.,ask_regular_enrollment_fcs
+When is early enrollment for FSH Grade 11?,Early enrollment for FSH Grade 11 is from 5 to 31 May.,ask_early_enrollment_fsh_g11
+When is regular enrollment for FSH Grade 12?,Regular enrollment for FSH Grade 12 is from 16 June to 5 July.,ask_regular_enrollment_fsh_g12
+When is freshmen and transferees enrollment for TS?,Enrollment for TS freshmen and transferees is from 5 to 31 May.,ask_enrollment_ts_freshmen
+When is enrollment for TS old students?,"Enrollment for TS old students is from 16 June to 5 July (by school: SOH, SOM, SOT).",ask_enrollment_ts_oldstudents
+When is open enrollment for all units?,"Open enrollment is from 2 June to mid-July: 14 July (FCS), 16 July (FSH and TS).",ask_open_enrollment
+When is late enrollment for all units?,"Late enrollment is from 15 to 30 July 2025, with minor date differences across FCS, FSH, and TS.",ask_late_enrollment
+
+# New FAQs
+
+Is computer science hard?,"Yes, computer science can be challenging due to its focus on math, algorithms, and complex programming concepts, but it's manageable with dedication and practice.",ask_cs_difficulty
+What skills do I need for IT?,"For IT, you should have good problem-solving skills, technical knowledge of hardware/software, networking, and strong communication abilities.",ask_it_skills_required
+What skills do I need for CS?,"For CS, you need strong analytical thinking, math proficiency, logical reasoning, and a solid foundation in programming languages like Java, Python, or C++.",ask_cs_skills_required
+What skills do I need for EMC?,"EMC requires creativity, knowledge of multimedia tools, understanding of game mechanics, basic programming skills, and familiarity with animation and design software.",ask_emc_skills_required
+What is the role of mathematics in CS?,"Mathematics is crucial in CS for understanding algorithms, data structures, cryptography, machine learning, and computational theory.",ask_math_in_cs
+Does IT require coding?,"IT doesn't focus heavily on coding compared to CS, but basic programming knowledge is helpful, especially for troubleshooting, automation, and system integration.",ask_coding_in_it
+Is EMC only about video games?,"No, EMC covers more than just video games; it includes web animation, virtual reality, mobile apps, interactive storytelling, and digital art.",ask_emc_scope
+What certifications can help IT professionals?,"Popular certifications include CompTIA A+, Network+, CCNA, CISSP, and Microsoft Azure or AWS certifications.",ask_certifications_for_it
+What certifications can help CS professionals?,"Certifications like Oracle Certified Java Programmer, Google Professional Cloud Developer, AWS Certified Developer, and Microsoft .NET certifications add value.",ask_certifications_for_cs
+What certifications can help EMC professionals?,"Certifications like Adobe Certified Expert, Autodesk Maya, Unity Certified User, and Unreal Academic Partner Program are beneficial.",ask_certifications_for_emc
+How important is teamwork in IT projects?,"Teamwork is essential in IT projects as collaboration with colleagues, clients, and stakeholders ensures successful implementation and maintenance of systems.",ask_teamwork_in_it
+How important is teamwork in CS projects?,"In CS, especially in software development, teamwork is vital for building large-scale systems, debugging, and working in agile environments.",ask_teamwork_in_cs
+How important is teamwork in EMC projects?,"EMC projects are highly collaborative, involving artists, programmers, sound designers, and writers to create immersive multimedia experiences.",ask_teamwork_in_emc
+What soft skills are important in IT?,"Communication, time management, adaptability, customer service, and critical thinking are key soft skills in IT.",ask_soft_skills_in_it
+What soft skills are important in CS?,"Problem-solving, attention to detail, persistence, logical thinking, and curiosity are important soft skills in CS.",ask_soft_skills_in_cs
+What soft skills are important in EMC?,"Creativity, storytelling ability, visual aesthetics, empathy, and openness to feedback are essential in EMC.",ask_soft_skills_in_emc
+Can I switch from IT to CS after college?,"Yes, transitioning from IT to CS is possible, though additional coursework or self-study in advanced programming and algorithms may be needed.",ask_switching_from_it_to_cs
+Can I switch from CS to EMC after college?,"Yes, many CS skills like programming and logic apply to EMC, especially in game development or interactive media.",ask_switching_from_cs_to_emc
+Can I switch from EMC to IT after college?,"Yes, EMC graduates can move into IT roles that involve multimedia systems, support, or user experience design.",ask_switching_from_emc_to_it
+What is the future of CS?,"CS will continue to grow with advancements in AI, quantum computing, cybersecurity, and data science, making it a future-proof field.",ask_future_of_cs
+What is the future of IT?,"IT remains relevant with ongoing digital transformation, cloud computing, IoT, and remote infrastructure management.",ask_future_of_it
+What is the future of EMC?,"EMC has a bright future in VR/AR, metaverse technologies, e-learning, and interactive entertainment.",ask_future_of_emc
+Is internships required for these programs?,"Yes, all three programs require On-the-Job Training (OJT) or internships as part of their curriculum.",ask_internship_requirement
+Can I study abroad with these degrees?,"Yes, these globally recognized programs offer opportunities for international studies, exchange programs, and global certifications.",ask_studying_abroad
+What research opportunities exist in CS?,"CS offers research in AI, robotics, natural language processing, blockchain, and high-performance computing.",ask_research_opportunities_cs
+What research opportunities exist in IT?,"IT research areas include cybersecurity, cloud computing, enterprise architecture, and IT governance.",ask_research_opportunities_it
+What research opportunities exist in EMC?,"EMC research involves immersive technologies, human-computer interaction, gamification, and digital storytelling.",ask_research_opportunities_emc

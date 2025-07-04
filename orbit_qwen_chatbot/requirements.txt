@@ -1,0 +1,6 @@
+streamlit
+scikit-learn
+spacy
+dashscope
+nltk
+pandas
